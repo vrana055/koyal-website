@@ -1,5 +1,7 @@
 <template>
+<div>
     <fragment>
+    <div>
         <transition @enter="startTransitionModal" @after-enter="endTransitionModal" @before-leave="endTransitionModalLeave" @after-leave="startTransitionModalLeave">
             <div id="search-modal" class="modal fade" v-if="$store.getters.showSearchModal" ref="modal">
                 <div class="modal-dialog modal-full" role="document">
@@ -43,7 +45,7 @@
                                         <p>© 2020 Business Consulting Agency Vue JS Template By Adveits</p>
                                     </div>
 
-                                    <languages-block />
+                                    <div> <languages-block /> </div>
                                 </div>
                             </div>
                         </div>
@@ -51,9 +53,10 @@
                 </div>
             </div>
         </transition>
-
+        </div>
         <div class="modal-backdrop fade d-none" ref="backdrop"></div>
     </fragment>
+</div>
 </template>
 
 <script>
