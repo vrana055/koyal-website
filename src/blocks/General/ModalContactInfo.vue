@@ -1,4 +1,5 @@
 <template>
+<div>
     <fragment>
         <p>575 Crescent Avenue <br>PA 18951 <br>United Kingdom</p>
         <p>
@@ -6,6 +7,7 @@
             <a href="mailto:info@domain.com">info@domain.com</a>
         </p>
     </fragment>
+</div>
 </template>
 
 <script>

@@ -1,4 +1,5 @@
 <template>
+<div>
     <fragment>
         <transition @enter="startTransitionModal" @after-enter="endTransitionModal" @before-leave="endTransitionModalLeave" @after-leave="startTransitionModalLeave">
             <div id="menu-modal" class="modal fade" v-if="$store.getters.showMenuModal" ref="modal">
@@ -56,6 +57,7 @@
 
         <div class="modal-backdrop fade d-none" ref="backdrop"></div>
     </fragment>
+</div>
 </template>
 
 <script>

@@ -1,4 +1,5 @@
 <template>
+<div>
     <fragment>
         <footer id="footer" class="site-footer">
             <div class="wrapper">
@@ -46,6 +47,7 @@
             <plans-modal-component />
         </div>
     </fragment>
+</div>
 </template>
 
 <script>
