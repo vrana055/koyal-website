@@ -105,7 +105,6 @@
             return {
                 sidebarItems: SidebarItems.sidebarItems,
                 urlAction: window.location.origin + this.$router.resolve( {
-                    name: '/search-results',
                     params: { id: 1 }
                 } ).href + 'search-results'
             }
