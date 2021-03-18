@@ -1,4 +1,5 @@
 <template>
+<div>
     <fragment>
         <header-block />
 
@@ -39,6 +40,7 @@
 
         <footer-block />
     </fragment>
+    </div>
 </template>
 
 <script>

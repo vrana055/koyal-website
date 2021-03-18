@@ -1,4 +1,5 @@
 <template>
+<div>
     <fragment>
         <header-block logo-color="light" />
 
@@ -36,6 +37,7 @@
 
         <footer-block />
     </fragment>
+</div>
 </template>
 
 <script>

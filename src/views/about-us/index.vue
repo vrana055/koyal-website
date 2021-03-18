@@ -1,4 +1,5 @@
 <template>
+<div>
     <fragment>
         <loading-component />
 
@@ -24,6 +25,7 @@
 
         <footer-block />
     </fragment>
+</div>
 </template>
 
 <script>

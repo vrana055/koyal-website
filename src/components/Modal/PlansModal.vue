@@ -1,5 +1,7 @@
 <template>
+<div>
     <fragment>
+        <div>
         <transition @enter="startTransitionModal" @after-enter="endTransitionModal" @before-leave="endTransitionModalLeave" @after-leave="startTransitionModalLeave">
             <div id="plans-modal" class="modal fade" v-if="$store.getters.showPlansModal" ref="modal">
                 <div class="modal-dialog modal-full" role="document">
@@ -36,9 +38,10 @@
                 </div>
             </div>
         </transition>
-
+        </div>
         <div class="modal-backdrop fade d-none" ref="backdrop"></div>
     </fragment>
+</div>
 </template>
 
 <script>
