@@ -5,7 +5,7 @@
         </router-link>
 
         <router-link class="logo logo-secondary adv-light transform-scale-h" title="Logo" to="/">
-            <img src="assets/img/logo/Koyal - New Logo.png" alt="Logo">
+            <img src="assets/img/logo/Koyal - New Logo.png" alt="Logo" >
         </router-link>
     </div>
 </template>
