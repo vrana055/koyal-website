@@ -11,7 +11,7 @@
                     <div class="d-flex flex-column flex-md-row flex-lg-row flex-xl-row justify-content-between">
                         <div class="align-self-center">
                             <div class="logo logo-secondary">
-                                <img src="assets/img/logo/logo-light.svg" alt="Logo">
+                                <img src="assets/img/logo/Koyal - New Logo.png" alt="Logo">
                             </div>
                         </div>
 

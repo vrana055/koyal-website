@@ -29,10 +29,10 @@
 
                             <div class="card-body">
                                 <h5 class="card-title">
-                                    <router-link title="5 Tips for Sustainable Business Success" to="/news-single-post">5 Tips for Sustainable Business Success</router-link>
+                                    <router-link title="5 Tips for Sustainable Business Success" to="/news-single-post">How to Build Your Sustainable Business Strategy</router-link>
                                 </h5>
 
-                                <p class="card-text">At vero eos et accusamus et iusto odio dignissimos ducims…</p>
+                                <p class="card-text">But I must explain to you how all of this mistaken idea...</p>
 
                                 <div class="card-btn">
                                     <router-link title="Read more" class="btn btn-sm btn-link btn-icon-hover p-0 border-0 min-w-auto link-no-space text-uppercase" to="/news-single-post">
@@ -61,7 +61,7 @@
                                     <router-link title="Assessing the Maturity of Your Data Management in Industry" to="/news-single-post">Assessing the Maturity of Your Data Management in Industry</router-link>
                                 </h5>
 
-                                <p class="card-text">At vero eos et accusamus et iusto odio dignissimos ducims…</p>
+                                <p class="card-text">But I must explain to you how all of this mistaken idea...</p>
 
                                 <div class="card-btn">
                                     <router-link title="Read more" class="btn btn-sm btn-link btn-icon-hover p-0 border-0 min-w-auto link-no-space text-uppercase" to="/news-single-post">
@@ -87,10 +87,10 @@
 
                             <div class="card-body">
                                 <h5 class="card-title">
-                                    <router-link title="How to Build Your Sustainable Susiness Strategy" to="/news-single-post">How to Build Your Sustainable Susiness Strategy</router-link>
+                                    <router-link title="How to Build Your Sustainable Susiness Strategy" to="/news-single-post">5 Tips for Sustainable Business Success</router-link>
                                 </h5>
 
-                                <p class="card-text">At vero eos et accusamus et iusto odio dignissimos ducims…</p>
+                                <p class="card-text">But I must explain to you how all of this mistaken idea...</p>
 
                                 <div class="card-btn">
                                     <router-link title="Read more" class="btn btn-sm btn-link btn-icon-hover p-0 border-0 min-w-auto link-no-space text-uppercase" to="/news-single-post">

@@ -2,16 +2,16 @@
     <section id="team-members" :class="'block bg-white-before spacer '+ spacerClass +''">
         <div class="wrapper">
             <div class="title">
-                <h6 class="text-primary text-uppercase">Meet our team</h6>
+                <h6 class="text-primary text-uppercase">Leadership</h6>
             </div>
 
             <div class="title-opacity">
                 <div class="title-opacity-text">Team</div>
             </div>
 
-            <div class="description">
+            <!-- <div class="description">
                 <h2>We are Business Consulting Professionals</h2>
-            </div>
+            </div> -->
 
             <div class="row gutter-width-md with-pb-md spacer p-top-lg">
                 <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4">
@@ -24,12 +24,12 @@
                             </div>
 
                             <div class="team-member-position">
-                                <p>CEO</p>
+                                <p>Director/Partner</p>
                             </div>
                         </div>
 
                         <div class="team-member-content">
-                            <h4 class="team-member-t-head">Tom Henders</h4>
+                            <h4 class="team-member-t-head">Jeffrey Reed</h4>
 
                             <div class="team-member-description">
                                 <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.</p>
@@ -64,12 +64,12 @@
                             </div>
 
                             <div class="team-member-position">
-                                <p>Business Analytic</p>
+                                <p>Director/Partner</p>
                             </div>
                         </div>
 
                         <div class="team-member-content">
-                            <h4 class="team-member-t-head">Andrew Mike</h4>
+                            <h4 class="team-member-t-head">Saju Joseph</h4>
 
                             <div class="team-member-description">
                                 <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.</p>
@@ -94,7 +94,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                <!-- <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4">
                     <div class="team-member">
                         <div class="team-member-top">
                             <div class="img object-fit">
@@ -132,7 +132,7 @@
                             </ul>
                         </nav>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>

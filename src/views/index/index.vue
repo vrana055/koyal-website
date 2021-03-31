@@ -22,7 +22,7 @@
 
                     <price-plans-block />
 
-                    <clients-block spacer-class="m-top-xl" />
+                    <!-- <clients-block spacer-class="m-top-xl" /> -->
 
                     <video-block />
 

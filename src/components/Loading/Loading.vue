@@ -7,7 +7,7 @@
                         <div class="loading-content">
                             <div class="logo logo-primary">
                                 <transition appear>
-                                    <img class="animated zoomIn" v-if="show" src="assets/img/logo/logo-dark.svg" alt="Logo">
+                                    <img class="animated zoomIn" v-if="show" src="assets/img/logo/Koyal - New Logo.png" alt="Logo">
                                 </transition>
                             </div>
                         </div>
