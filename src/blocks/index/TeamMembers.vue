@@ -19,7 +19,7 @@
                         <div class="team-member-top">
                             <div class="img object-fit">
                                 <div class="object-fit-cover">
-                                    <img src="assets/img/placeholder/500x550.jpg" alt="Tom Henders">
+                                    <img src="assets/img/placeholder/JeffReed.JPG" alt="Jeff Reed">
                                 </div>
                             </div>
 
@@ -59,7 +59,7 @@
                         <div class="team-member-top">
                             <div class="img object-fit">
                                 <div class="object-fit-cover">
-                                    <img src="assets/img/placeholder/500x550.jpg" alt="Andrew Mike">
+                                    <img src="assets/img/placeholder/Saju.jpg" alt="Saju Joseph">
                                 </div>
                             </div>
 
