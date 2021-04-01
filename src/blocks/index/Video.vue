@@ -13,7 +13,7 @@
                                  </div>
                             </div>
                             
-                        <img src="assets/img/placeholder/WhatsApp_Image_2020-11-24_at_13.46.171.jpeg" alt="Video">
+                        <img src="assets/img/placeholder/HomePage1.jpeg" alt="Video">
                         </div>
                     </div>
                 </div>

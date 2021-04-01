@@ -9,7 +9,9 @@
             </div>
         </div>
 
-        <div class="page-title-bg-color"></div>
+        <div class="page-title-bg-color">
+
+        </div>
     </section>
 </template>
 
