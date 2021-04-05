@@ -2,16 +2,16 @@
     <section id="about-us" :class="'block spacer '+ spacerClass +''">
         <div class="wrapper">
             <div class="title">
-                <h6 class="text-primary text-uppercase">About Us</h6>
+                <h6 class="text-primary text-uppercase">Our Vision</h6>
             </div>
 
             <div class="row gutter-width-md with-pb-md">
                 <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
                     <div class="description-2">
-                        <h2>Keep Your Business Safe & Ensure High Availability</h2>
+                        <h2>To serve as a reliable offshore technological partner, operating in a healthy agile environment,building trust and adding values to our clients.</h2>
                     </div>
 
-                    <div class="signature spacer m-top-lg">
+                    <!-- <div class="signature spacer m-top-lg">
                         <div class="signature-img">
                             <img src="assets/img/demo/23_img.png" alt="Signature">
                         </div>
@@ -20,7 +20,7 @@
                             <h5 class="signature-name">Tom Henders</h5>
                             <p class="signature-position">CEO of Company</p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
@@ -34,7 +34,7 @@
                 </div>
             </div>
 
-            <div class="icon-list">
+            <!-- <div class="icon-list">
                 <div class="icon-list-items">
                     <div class="icon-list-item">
                         <p>
@@ -60,7 +60,7 @@
                         </p>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 </template>

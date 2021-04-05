@@ -1,7 +1,7 @@
 <template>
     <section id="how-it-works" :class="'block bg-white before-block spacer '+ spacerClass +''">
         <div class="wrapper">
-            <div class="row no-gutters process-height">
+            <!-- <div class="row no-gutters process-height">
                 <div class="col-sm-12 col-md-3 col-lg-3 col-xl-3">
                     <div class="process pl-0">
                         <div class="process-content">
@@ -49,7 +49,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 </template>

@@ -15,7 +15,7 @@
 
                                     <div class="header-right d-flex justify-content-end">
                                         <div class="d-flex align-items-center">
-                                            <search-modal-button-component button-class="adv-light" btn-outline="btn-outline-tertiary" />
+                                            <!-- <search-modal-button-component button-class="adv-light" btn-outline="btn-outline-tertiary" /> -->
 
                                             <div class="menu-close-toggle">
                                                 <button @click="toggleMenuModal" type="button" class="btn btn-lg btn-outline-tertiary btn-round p-0 min-w-auto" data-dismiss="modal" aria-label="Close">

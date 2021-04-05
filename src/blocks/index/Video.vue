@@ -1,21 +1,19 @@
 <template>
     <div id="video" :class="'block '+ spacerClass +''">
-        <FsLightbox :toggler="toggler" :sources="['https://www.youtube.com/watch?v=lSNmfy_KOJg']" />
-
         <div class="embed">
             <div class="embed-image-overlay">
-                <button class="embed-click" @click="toggler = !toggler">
-                    <div class="embed-center">
-                        <div class="embed-play">
-                            <i class="fas fa-play"></i>
-                        </div>
-                    </div>
-                </button>
 
                 <div class="embed-image">
                     <div class="img object-fit">
                         <div class="object-fit-cover">
-                            <img src="assets/img/placeholder/1920x800.jpg" alt="Video">
+
+                             <div class="title">
+                                 <div class="wrapper">
+                                    <h6 class="text-primary text-uppercase">Why India?</h6>
+                                 </div>
+                            </div>
+                            
+                        <img src="assets/img/placeholder/HomePage1.jpeg" alt="Video">
                         </div>
                     </div>
                 </div>
