@@ -1,6 +1,6 @@
 <template>
     <div id="img" :class="'block spacer '+ spacerClass +' wrapper-normal'">
-        <div class="wrapper">
+        <!-- <div class="wrapper">
             <div class="img-size-1">
                 <div class="img object-fit">
                     <div class="object-fit-cover">
@@ -8,7 +8,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </template>
 

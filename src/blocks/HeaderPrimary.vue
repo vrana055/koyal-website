@@ -13,7 +13,7 @@
                                 <nav class="menu-primary">
                                     <ul class="nav">
                                         <li class="nav-item" v-bind:class="menuElements[0]">
-                                            <a id="nav-services" title="Services" href="#services">Services</a>
+                                            <a id="nav-services" title="Services" href="#services">Home</a>
                                         </li>
 
                                         <li class="nav-item" v-bind:class="menuElements[1]">
@@ -21,19 +21,15 @@
                                         </li>
 
                                         <li class="nav-item" v-bind:class="menuElements[2]">
-                                            <a id="nav-team-members" title="Teams" href="#team-members">Team</a>
+                                            <a id="nav-team-members" title="Teams" href="#team-members">Services</a>
                                         </li>
 
                                         <li class="nav-item" v-bind:class="menuElements[3]">
-                                            <a id="nav-price-plans" title="Pricing" href="#price-plans">Pricing</a>
+                                            <a id="nav-price-plans" title="Pricing" href="#price-plans">Industries</a>
                                         </li>
 
                                         <li class="nav-item" v-bind:class="menuElements[4]">
-                                            <a id="nav-testimonials" title="Testimonials" href="#testimonials">Testimonials</a>
-                                        </li>
-
-                                        <li class="nav-item" v-bind:class="menuElements[5]">
-                                            <a id="nav-news" title="News" href="#news">News</a>
+                                            <a id="nav-testimonials" title="Testimonials" href="#testimonials">Resources</a>
                                         </li>
 
                                         <li class="nav-item" v-bind:class="menuElements[6]">
@@ -43,7 +39,7 @@
                                 </nav>
                             </div>
 
-                            <search-modal-button-component button-class="adv-light" btn-outline="btn-outline-tertiary" />
+                            <!-- <search-modal-button-component button-class="adv-light" btn-outline="btn-outline-tertiary" /> -->
 
                             <menu-modal-button-component button-class="adv-light mr-0" btn-outline="btn-outline-tertiary" />
 

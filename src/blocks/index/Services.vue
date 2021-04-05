@@ -8,7 +8,7 @@
                             <i class="malex-icon-strategy"></i>
                         </div>
 
-                        <h4 class="service-t-head">Strategic Planning</h4>
+                        <h4 class="service-t-head">Agile Moves</h4>
 
                         <p class="service-description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.</p>
 
@@ -27,7 +27,7 @@
                             <i class="malex-icon-choice"></i>
                         </div>
 
-                        <h4 class="service-t-head">Consulting & Marketing</h4>
+                        <h4 class="service-t-head">Best Minds</h4>
 
                         <p class="service-description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.</p>
 
@@ -46,7 +46,7 @@
                             <i class="malex-icon-chart-5"></i>
                         </div>
 
-                        <h4 class="service-t-head">Financial</h4>
+                        <h4 class="service-t-head">Result Oriented</h4>
 
                         <p class="service-description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.</p>
 

@@ -65,21 +65,6 @@
         </div>
 
         <div class="width-img spacer p-top-xl p-bottom-xl" style="background-image: url('assets/img/demo/18_img.png')">
-            <div class="wrapper">
-                <div id="contact-form">
-                    <div class="title">
-                        <h3 class="pb-0">You Can Write Us</h3>
-                    </div>
-
-                    <div class="description-lg spacer p-top-lg">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. When an unknown printer took a galley.</p>
-                    </div>
-
-                    <div class="spacer p-top-lg">
-                        <contacts-form-component />
-                    </div>
-                </div>
-            </div>
         </div>
     </section>
 </template>

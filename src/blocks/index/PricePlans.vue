@@ -1,6 +1,6 @@
-<template>
-    <section id="price-plans" class="block spacer p-top-xl-2 m-top-xl-2">
-        <div class="wrapper">
+ <!--<template> -->
+  <!--  <section id="price-plans" class="block spacer p-top-xl-2 m-top-xl-2"> -->
+        <!-- <div class="wrapper">
             <div class="title">
                 <h6 class="text-primary text-uppercase">Price Plans</h6>
             </div>
@@ -156,17 +156,17 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </section>
-</template>
+<!-- </template> -->
 
-<script>
-    import PlansModalButton from '../../components/Button/PlansModalButton';
+// <script>
+//     import PlansModalButton from '../../components/Button/PlansModalButton';
 
-    export default {
-        name: 'PricePlans',
-        components: {
-            PlansModalButton,
-        }
-    }
-</script>
+//     export default {
+//         name: 'PricePlans',
+//         components: {
+//             PlansModalButton,
+//         }
+//     }
+// </script>
